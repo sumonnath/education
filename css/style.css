@@ -274,7 +274,11 @@ header {
 }
 
 .single_moments {
-		margin-bottom: 15px;
+		margin-bottom: 20px;
+}
+
+.single_moments img {
+	border-radius: 20px;
 }
 /*moments end*/
 
