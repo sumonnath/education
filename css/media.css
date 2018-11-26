@@ -1,0 +1,484 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header*/
+	.custom_nav {
+	    margin-top: 10px;
+	    margin-left: -20px;
+	}
+	.custom_dropdown {
+		margin-left: 10px;
+	}
+
+	.custom_dropdown a i {
+	    
+	}
+
+	.search {
+		color: #fff;
+		padding-left: 20px;
+	}
+
+	/*banner start*/
+	.banner {
+		background-image: none;
+		background-color: #fff;
+	}
+
+	.banner_text {
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+
+	.banner_text h1 {
+	    font-size: 40px;
+	}
+
+	.banner_text h3 {
+	    font-size: 30px;
+	}
+
+	/*kid1 start*/
+	.kid1 {
+	    padding: 10px 0 5px;
+	}
+
+	.schools img {
+	    width: 140px;
+	    margin-bottom: 20px;
+	}
+
+	/*teacher start*/
+	.teacher {
+	    padding: 30px 0;
+	}
+
+	.teacher_title h2 {
+		font-family: 'Dosis', sans-serif;
+		font-weight: bold;
+		font-size: 30px;
+	}
+
+	/*what we did start*/
+	.what_we_did {
+	    padding: 0 0 30px;
+	}
+
+	.counter h1 {
+	    font-size: 40px;
+	}
+
+	.counter p {
+	    font-size: 20px;
+	}
+
+	/*memorable start*/
+	.memorable {
+	    padding: 20px 0;
+	}
+
+	.moments_title {
+	    padding-bottom: 15px;
+	}
+
+	.moments_title h2 {
+		font-size: 30px;
+	}
+
+	.view_more_btn img {
+	    width: 150px;
+	}	
+
+	/*common title start*/
+	.common_title h1 {
+		margin-bottom: 20px;
+		font-size: 22px;
+	}
+
+	.common_title hr {
+	    width: 290px;
+	}
+
+	.schools img {
+	    width: 150px;
+	}
+
+	/*.events start*/
+	.events {
+	    padding: 30px 0;
+	}
+
+	.events_title {
+	    text-align: left;
+	    padding-bottom: 10px;
+	}
+
+	.events_title h3 {
+	    font-size: 25px;
+	}
+
+	.events_title hr {
+	    margin-left: 0;
+	    width: 235px;
+	}
+
+	.date {
+	    width: 70px;
+	    height: 70px;
+	    padding-top: 8px;
+	}
+
+	.date h1 {
+	    font-size: 30px;
+	}
+
+	.date p {
+		font-size: 15px;
+	}
+
+	.description {
+	    margin-top: 15px
+	}
+
+	.description h3 {
+	    font-size: 17px;
+	}
+
+	.recent_news {
+	    margin-top: 40px;
+	}
+
+	.news_content h3 {
+	    font-size: 18px;
+	    font-weight: bold;
+	}
+
+	.news_pic img {
+	    margin-bottom: 20px;
+	    width: 65%;
+	}
+
+	.para_text {
+	    font-size: 13px !important;
+	}
+
+	/*contact start*/
+	.contact {
+		background-image: none;
+		background-color: #fff;
+		padding: 0px 0 20px;
+	}
+
+	.common_title {
+	    margin-top: 30px !important;
+	}
+
+	/*footer start*/
+	.footer_menu {
+	  text-align: center;
+	}
+	
+	.custom_list li {
+		margin-right: 1px !important;
+	}
+
+	.footer_menu ul li a {
+	    font-size: 12px;
+	    padding-right: 0;
+	}
+
+	.copyright {
+		text-align: center;
+	}
+
+	.copyright p {
+		font-size: 12px;
+	}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header*/
+	.custom_dropdown a i {
+	    
+	}
+
+	.custom_dropdown a {
+		padding-left: 18px;
+	}
+
+	.search {
+		color: #fff;
+		padding-left: 15px;
+	}
+
+	.common_title {
+	    padding-bottom: 20px;
+	}
+
+	.common_title h1 {
+		margin-bottom: 20px; 
+		font-size: 25px;	
+	}
+	.common_title hr {
+	    width: 220px;
+	}
+
+	.kid1 {
+		padding: 60px 0;
+	}
+
+	.schools img {
+	    width: 160px;
+	    margin-bottom: 20px;
+	}
+
+	/*what we did start*/
+	.what_we_did {
+	    padding: 0 0 30px;
+	}
+
+	/*.events start*/
+	.events {
+	    padding: 30px 0;
+	}
+
+	.events_title {
+	    text-align: center;
+	    padding-bottom: 10px;
+	}
+
+	.events_title hr {
+	    margin-left: auto;
+	    width: 275px;
+	}
+
+	.recent_news {
+	    margin-top: 40px;
+	}
+
+	.news_content p {
+	    font-size: 13px !important;
+	}
+
+	/*contact start*/
+	.contact {
+		background-image: none;
+		background-color: #fff;
+		padding: 0px 0 20px;
+	}
+
+	.contact_title {
+	    margin-top: 67px !important;
+	}
+
+	.contact_title h3 {
+	    letter-spacing: 1px;
+	}
+
+	.contact_media, .newsletter {
+		padding-top: 0px;		
+	}
+
+	/*footer start*/
+	.footer_menu {
+	    text-align: center;
+	}
+
+	.footer_menu ul li a {
+	    font-size: 16px;
+	    padding-right: 5px;
+	}
+
+	.copyright {
+		text-align: center;
+	}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header*/
+	.custom_dropdown a i {
+	    padding-left: 6px;
+	}
+
+	.search {
+		color: #fff;
+		padding-left: 15px;
+	}
+
+
+	.common_title h1 {
+	    font-size: 25px;
+	}
+
+	.schools img {
+	    width: 180px;
+	}
+
+	/*what we did start*/
+	.what_we_did {
+	    padding: 50px 0 50px;
+	}
+
+	.counter h1 {
+	    font-size: 40px;
+	}
+
+	.counter p {
+	    font-size: 17px;
+	    letter-spacing: 1px;
+	}
+
+	/*events start*/
+	.events_title {
+	    padding-bottom: 10px;
+	}
+
+	.events_title h3 {
+	    font-size: 24px;
+	}
+
+	.events_title hr {
+	    width: 210px;
+	}
+
+	.date {
+	    width: 65px;
+	    height: 65px;
+	}
+
+	.date h1 {
+	    font-size: 30px;
+	}
+
+	.date p {
+	    font-size: 14px;
+	}
+
+	.description {
+	    margin-top: 10px;
+	}
+
+	.description h3 {
+	    font-size: 16px;
+	}
+
+	.description p {
+	    font-size: 14px;
+	}
+
+	/*news content start*/
+	.news_content h3 {
+	    font-size: 18px;
+	}
+
+	.news_content hr {
+	    width: 180px;
+	    margin-top: 10px;
+	    margin-bottom: 10px;
+	}
+
+	/*contact start*/
+	.contact {
+		background-image: none;
+		background-color: #fff;
+		padding: 0px 0 20px;
+	}
+
+	/*footer start*/
+	.footer_menu ul li a {
+	    font-size: 13px;
+	    padding-right: 0;
+	}
+
+	.copyright p {
+	    font-size: 13px;
+	}
+
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.common_title h1 {
+	    font-size: 30px;
+	}
+
+	/*events start*/
+	.date {
+	    width: 80px;
+	    height: 80px;
+	}
+
+	.date h1 {
+	    font-size: 35px;
+	}
+
+	.date p {
+	    font-size: 16px;
+	}
+
+	.description {
+	    margin-top: 10px;
+	}
+	
+	.description h3 {
+	    font-size: 22px;
+	}
+
+	/*contact start*/
+	.contact_title h3 {
+	    font-size: 20px !important;
+	    letter-spacing: 1px;
+	}
+
+	.about_services p {
+		font-size: 15px;
+	}
+
+	.contact_media p {
+	    font-size: 11px;
+	}
+
+	.newsletter P {
+		font-size: 13px;
+	}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+     /*events start*/
+     .date {
+         width: 80px;
+         height: 80px;
+     }
+
+     .date h1 {
+         font-size: 35px;
+     }
+
+     .date p {
+         font-size: 16px;
+     }
+
+     .description {
+         margin-top: 10px;
+     }
+     
+     .description h3 {
+         font-size: 22px;
+     }
+
+     /*contact start*/
+     .contact_title {
+         padding-bottom: 20px;
+     }
+}
+
+/*Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+	
+}
+

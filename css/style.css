@@ -1,0 +1,592 @@
+
+body {
+	font-family: 'Dosis', sans-serif;
+	color: #333333;
+	background-image: url(../images/background_bg.png);
+	
+}
+
+/*header start*/
+header {
+	background-color: #ffd338;
+}
+
+.custom_nav {}
+.custom_nav ul {}
+.custom_nav ul li {
+
+}
+.custom_nav ul li a {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #fff !important;
+	padding: 0 20px !important;
+	border-radius: 20px;
+	transition: 0.3s;
+}
+.custom_nav ul li a:hover {
+	background-color: #f05c5c;
+}
+
+
+/*dropdown start*/
+
+.custom_dropdown a {
+	text-decoration: none;
+	color: #fff;
+	border: none;
+}
+.custom_dropdown a i {}
+
+.custom_menu {}
+.custom_menu a {
+	color: #333;
+	padding: 7px;
+}
+.custom_d_menu a i {
+
+}
+
+.search {
+	color: #fff;
+}
+/*dropdown end*/
+
+
+
+
+/*header end*/
+
+/*banner start*/
+
+.banner {
+	background-image: url(../images/banner_bg.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	color: #BBBBBB;
+}
+
+.banner_text {
+	margin-top: 250px;
+	margin-bottom: 250px;
+}
+.banner_text h1 {
+	color: #707070;
+	font-size: 80px;
+}
+.banner_text h3 {
+	color: #1EC0FF;
+	font-size: 48px;
+	font-weight: 700;
+}
+
+.scroll p{
+	color: #BBBBBB;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.scroll i {
+	font-size: 30px;
+}
+
+/*banner end*/
+
+/*kid1 start*/
+.kid1 {
+	padding: 100px 0;
+}
+
+.common_title {
+	padding-bottom: 30px;
+}
+
+.common_title h1 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+	color: #333333;
+
+}
+
+.common_title hr {
+	border: none;
+	border-bottom: 5px dotted #fff;
+	width: 250px;
+}
+
+.schools h2 {
+	font-size: 24px;
+	color: #333;
+}
+
+.schools hr {
+	border: none;
+	border-bottom: 3px solid #ddd;
+	width: 170px;
+}
+
+.schools img {
+
+}
+
+.schools_img {
+
+}
+.schools_img img{
+	border-radius: 20px;
+}
+/*kid1 end*/
+
+/*services start*/
+.services {
+	background-image: url(../images/service_bg.png);
+	padding: 80px 0;	
+}
+
+.single_service {
+	text-align: center;
+}
+.single_service img {
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+.single_service h3 {
+	color: #fff;
+	font-size: 24px;
+}
+/*services end*/
+
+/* Offering Start */
+.features {
+	padding: 60px 0;
+}
+.feature_title {
+	
+}
+.feature_title h1{
+	margin-bottom: 30px;
+}
+
+.feature_title img
+/* Offering End */
+
+
+
+/*card start*/
+
+.custom_head {
+	background-color: #1ec0ff !important;
+}
+
+.card {
+    font-size: 1em;
+    overflow: hidden;
+    padding: 0;
+    border: none;
+    border-radius: .28571429rem;
+    box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+    margin-bottom: 30px;
+}
+
+.card-block {
+    font-size: 1em;
+    position: relative;
+    margin: 0;
+    padding: 1em;
+    border: none;
+    border-top: 1px solid rgba(34, 36, 38, .1);
+    box-shadow: none;
+}
+
+.card-img-top {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.card-title {
+    font-size: 1.28571429em;
+    font-weight: 700;
+    line-height: 1.2857em;
+    color: #1ec0ff;
+}
+
+.card-text {
+    clear: both;
+    margin-top: .5em;
+    color: rgba(0, 0, 0, .68);
+}
+
+.card-footer {
+    font-size: 1em;
+    position: static;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    padding: .75em 1em;
+    color: rgba(0, 0, 0, .4);
+    border-top: 1px solid rgba(0, 0, 0, .05) !important;
+    background: #fff;
+}
+
+.profile {
+    position: absolute;
+    top: -25px;
+    right: 12px;
+    display: inline-block;
+    overflow: hidden;
+    box-sizing: border-box;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    border-radius: 50%;
+}
+
+.profile-avatar {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+/*card end*/
+
+/*plus btn start*/
+.plus_btn {
+	margin-top: 50px;
+	border-radius: 50px;
+	padding: 15px 0;
+}
+
+.plus_btn i {
+	font-size: 30px;
+	color: #fff;
+}
+/*plus btn end*/
+
+/*moments start*/
+.memorable {
+	background-image: url(../images/memorable_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 80px;
+}
+
+.single_moments {
+		margin-bottom: 15px;
+}
+/*moments end*/
+
+/*teacher start*/
+.teacher {
+	padding: 90px 0;
+}
+
+.twitter {}
+
+.twitter i {
+	font-size: 60px;
+	color: #1ec0ff;
+}
+
+.tw_link a {
+	color: #1ec0ff;
+}
+
+.twitter p {
+	line-height: 2.5;
+}
+
+.twitter span {
+	color: #1ec0ff;
+}
+
+/*teacher info start*/
+.pro_pic img {
+	width: 240px;
+	height: 290px;
+}
+.teacher_info {
+	padding-top: 15px;
+}
+.teacher_info h3 {
+	
+}
+.teacher_info h6 {
+
+}
+.teacher_info p {
+
+}
+
+.teacher_info h5:hover {
+	text-decoration: underline;
+}
+
+.teacher_one h3 {
+	color: #1ec0ff;
+}
+
+.teacher_two {
+
+}
+
+.social_icon {
+
+}
+/*teacher info end*/
+/*teacher end*/
+
+/*what we did start*/
+.what_we_did {
+	background-color: #6e6e6e;
+	width: 100%;
+	padding: 80px 0;
+}
+
+.counter {}
+.counter h1 {
+	font-size: 60px;
+	font-weight: bold;
+	letter-spacing: 5px;
+}
+.counter img {
+	margin-top: -40px;
+}
+.counter p {
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+/*what we did end*/
+
+/*events start*/
+.events {
+	padding: 80px 0;
+}
+
+/*events title start*/
+
+.events_title {
+
+}
+
+.events_title h3 {
+	font-size: 30px;
+	font-weight: bold;
+	color: #333333;
+	letter-spacing: 2px;
+}
+
+.events_title hr {
+	margin-left: 0;
+}
+
+/*events title end*/
+
+/*events description start*/
+.date {
+	background-color: #1ec0ff;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 6px;
+    color: #fff;
+}
+
+.date h1 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+	font-size: 48px;
+	margin-bottom: -5px;
+}
+
+.date p {
+	font-family: 'Dosis', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+.description {
+    margin-top: 25px;
+}
+
+.description h3 {
+	font-size: 24px;
+	font-weight: bold;
+}
+.description p  {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.para_text {	
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	font-weight: 300;	
+	
+}
+
+.description a {
+	text-decoration: none;
+	color: #fb9130;
+	font-size: 16px;
+	text-transform: uppercase;
+}
+
+
+/*events description end*/
+
+
+/*news content start*/
+.news_pic {
+
+}
+
+.news_pic img {
+	width: 100%;
+}
+
+.news_content {
+
+}
+.news_content h3 {
+	font-size: 24px;
+	font-weight: bold;
+}
+.news_content hr {
+	border: none;
+	border-bottom: 3px dotted #1ec0ff;
+	width: 250px;
+	margin-left: 0;
+}
+.news_content p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+/*events end*/
+
+/*contact start*/
+.contact {
+	background-image: url(../images/contact_bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 200px 0 100px;
+}
+
+.contact_title {
+	margin-top: 70px !important;
+}
+
+.contact_title h3 {
+	font-family: 'Dosis', sans-serif;
+	font-size: 24px !important;
+	font-weight: bold;
+	letter-spacing: 2px;
+}
+
+.contact_title hr {
+	width: 200px;
+	margin-left: 0;
+}
+
+.about_logo {
+	width: 100%;
+}
+
+.instagram {
+
+}
+
+.instagram h3 {
+
+}
+.instagram hr {
+	border-bottom: 3px dotted #ffc852 !important;
+}
+
+.contact_us hr {
+	border-bottom: 3px dotted #56d47e !important;
+}
+
+.contact_media p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+.contact_media span {
+	color: #ddd;
+}
+
+/*newsletter start*/
+
+.signup hr {
+	border-bottom: 3px dotted #f05c5c !important;
+}
+
+.newsletter {
+
+}
+
+.signup_form {}
+
+.custom_group > .form-control {
+	border-right: 0 !important;
+}
+
+.input_icon > .custom_text {
+	background-color: #fff !important;
+	border-left: 0 !important;
+	color: #ddd;
+	border-top-right-radius: 5px ! important; 
+	border-bottom-right-radius: 5px ! important; 
+}
+
+.social_media ul li i {
+	color: #ddd;
+}
+/*contact end*/
+
+/*footer start*/
+footer {
+	background-color: #ffd338;
+	padding: 30px 0 10px;
+}
+.footer_menu {
+	
+}
+.footer_menu ul {}
+.footer_menu ul li {}
+.footer_menu ul li a {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #fff;
+	padding-right: 10px;
+}
+
+.copyright {
+	text-align: right;
+}
+
+.copyright p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	color: #fff;
+	text-transform: uppercase;
+}
+/*footer end*/
