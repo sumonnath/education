@@ -299,6 +299,13 @@ header {
 	padding: 90px 0;
 }
 
+.teacher_title h2 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+	color: #333333;
+}
+
 .twitter {}
 
 .twitter i {
