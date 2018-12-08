@@ -308,9 +308,9 @@ header {
 	padding: 90px 0;
 }
 
-.teacher_title h1 {
+.teacher_title h2 {
 	font-family: 'Dosis', sans-serif;
-	font-weight: bold !important;
+	font-weight: bold;
 	font-size: 30px;
 	color: #333333;
 }
