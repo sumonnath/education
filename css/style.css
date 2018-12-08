@@ -313,6 +313,7 @@ header {
 	font-weight: bold;
 	font-size: 30px;
 	color: #333333;
+	text-transform: uppercase;
 }
 
 .twitter {
