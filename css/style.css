@@ -262,6 +262,7 @@ header {
 	margin-top: 50px;
 	border-radius: 50px;
 	padding: 15px 0;
+	cursor: pointer;
 }
 
 .plus_btn i {
@@ -293,8 +294,12 @@ header {
 	border-radius: 20px;
 }
 
+.view_more_btn {
+	cursor: pointer;
+}
+
 .view_more_btn img {
-	
+
 }
 /*moments end*/
 
@@ -310,7 +315,9 @@ header {
 	color: #333333;
 }
 
-.twitter {}
+.twitter {
+	cursor: pointer;
+}
 
 .twitter i {
 	font-size: 60px;
