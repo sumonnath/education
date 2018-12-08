@@ -330,6 +330,10 @@
 	    height: 80px;
 	}
 
+	.date h1 {
+	    font-size: 36px;
+	}
+
 	.events_title hr {
 	    margin-left: auto;
 	    width: 275px;
