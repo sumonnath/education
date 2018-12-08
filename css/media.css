@@ -68,6 +68,10 @@
 	    margin-bottom: 16px;
 	}
 
+	.plus_btn {
+	    margin-top: 30px;
+	}
+
 	/*teacher start*/
 	.teacher {
 	    padding: 30px 0;
@@ -243,13 +247,58 @@
 	    width: 220px;
 	}
 
+	/*banner start*/
+	.banner_text {
+	    margin-top: 150px;
+	    margin-bottom: 260px;
+	}
+	.banner_text h1 {
+	    font-size: 40px;
+	}
+
+	.banner_text h3{
+	    font-size: 30px;
+	}
+
 	.kid1 {
 		padding: 60px 0;
 	}
 
 	.schools img {
-	    width: 160px;
-	    margin-bottom: 20px;
+	    width: 130px;
+	}
+
+	/*services start*/
+	.services {
+	    padding: 45px 0;
+	}
+
+	/*feature start*/
+	.features {
+	    padding: 45px 0;
+	}
+
+	.plus_btn {
+	    margin-top: 10px;
+	    padding: 6px 0;
+	}
+
+	/*memorable start*/
+	.memorable {
+	    padding: 45px;
+	}
+
+	.view_more_btn {
+		margin-top: 15px !important;
+	}
+
+	.view_more_btn img {
+	    width: 150px;
+	}
+
+	/*.teacher start*/
+	.teacher {
+	    padding: 45px 0;
 	}
 
 	/*what we did start*/
@@ -257,14 +306,27 @@
 	    padding: 0 0 30px;
 	}
 
+	.counter h1 {
+	    font-size: 40px;
+	}
+
+	.counter img {
+	    margin-top: -35px;
+	}
+
 	/*.events start*/
 	.events {
-	    padding: 30px 0;
+	    padding: 45px 0;
 	}
 
 	.events_title {
 	    text-align: center;
 	    padding-bottom: 10px;
+	}
+
+	.date {
+	    width: 80px;
+	    height: 80px;
 	}
 
 	.events_title hr {
@@ -317,6 +379,7 @@
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) {
 	/*header*/
+
 	.custom_dropdown a i {
 	    padding-left: 6px;
 	}
@@ -331,13 +394,59 @@
 	    font-size: 25px;
 	}
 
+	.banner_text h1 {
+	    font-size: 50px;
+	}
+
+	.banner_text h3 {
+	    font-size: 40px;
+	}
+
+	/*kid1 start*/
+	.kid1 {
+	    padding: 45px 0;
+	}
+
 	.schools img {
-	    width: 180px;
+	    width: 150px;
+	}
+
+	/*services start*/
+	.services {
+	    padding: 45px 0;
+	}
+
+	/*features start*/
+	.features {
+	    padding: 45px 0;
+	}
+
+	.plus_btn {
+	    margin-top: 10px;
+	    padding: 5px 0;
+	}
+
+	/*memorable start*/
+	.memorable {
+	    padding: 45px 0;
+	}
+
+	.view_more_btn {
+	    margin-top: 20px !important;
+	}
+
+	.view_more_btn img {
+		width: 150px;
+	}
+
+	/*teacher start*/
+	.teacher {
+	    padding: 45px 0;
 	}
 
 	/*what we did start*/
 	.what_we_did {
-	    padding: 50px 0 50px;
+	    padding: 0px 0 30px;
 	}
 
 	.counter h1 {
@@ -350,6 +459,10 @@
 	}
 
 	/*events start*/
+	.events {
+	    padding: 45px 0;
+	}
+
 	.events_title {
 	    padding-bottom: 10px;
 	}
