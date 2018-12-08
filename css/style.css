@@ -25,6 +25,10 @@ header {
 	border-radius: 20px;
 	transition: 0.3s;
 }
+
+.custom_nav ul li.active a {
+	background-color: #f05c5c;
+}
 .custom_nav ul li a:hover {
 	background-color: #f05c5c;
 }
