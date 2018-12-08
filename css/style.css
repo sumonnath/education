@@ -499,11 +499,26 @@ header {
 	font-size: 24px;
 	font-weight: bold;
 }
-.news_content hr {
+
+.hr_primary {
 	border: none;
 	border-bottom: 3px dotted #1ec0ff;
 	width: 250px;
 	margin-left: 0;
+}
+
+.hr_success {
+	border: none;
+	width: 250px;
+	margin-left: 0;
+	border-bottom: 3px dotted #56d47e;
+}
+
+.hr_warning {
+	border: none;
+	width: 250px;
+	margin-left: 0;
+	border-bottom: 3px dotted #ffd338;
 }
 .news_content p {
 	font-family: 'Lato', sans-serif;
