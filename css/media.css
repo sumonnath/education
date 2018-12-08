@@ -44,9 +44,28 @@
 	    padding: 10px 0 5px;
 	}
 
+	.common_title {
+		margin-top: 20px !important;
+		padding-bottom: 6px !important;
+	} 
+
 	.schools img {
 	    width: 140px;
 	    margin-bottom: 20px;
+	}
+
+	/*service start*/
+	.services {
+	    padding: 20px 0;
+	}
+	
+	/*feature start*/
+	.features {
+		padding: 30px 0;
+	}
+	.feature_title h1 {
+	    font-size: 20px;
+	    margin-bottom: 16px;
 	}
 
 	/*teacher start*/
@@ -169,7 +188,8 @@
 	}
 
 	.common_title {
-	    margin-top: 30px !important;
+	    margin-top: 20px !important;
+	    margin-bottom: 10px;
 	}
 
 	/*footer start*/

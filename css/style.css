@@ -113,7 +113,7 @@ header {
 
 .common_title hr {
 	border: none;
-	border-bottom: 5px dotted #fff;
+	border-bottom: 5px dashed #fff;
 	width: 250px;
 }
 
@@ -129,7 +129,7 @@ header {
 }
 
 .schools img {
-
+	cursor: pointer;
 }
 
 .schools_img {
