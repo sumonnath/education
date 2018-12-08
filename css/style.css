@@ -366,8 +366,8 @@ header {
 
 }
 
-.social_icon {
-
+.social_icon ul li i {
+	cursor: pointer;
 }
 /*teacher info end*/
 /*teacher end*/
